@@ -5,9 +5,10 @@ section: guidance
 subsection: Designing your service
 status: draft
 ---
-    
+
 #Shared asset libraries
-Your section will begin with a short, two-line summary of what you're showing people.
+
+Shared asset libraries are helpful for using the same frontend and branding on multiple services. This guide will show you how to go about getting the code used on [gov.uk](https://www.gov.uk) into your services.
 
 ##Guidance/Tool
 This will be a full explanation of the guidance or tool.
